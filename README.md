@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ziginsider
-- 👀 I’m interested in Android, Kotlin, Big data, Haskell
-- 🌱 I’m currently learning Haskell
+- 👀 I’m working with Android as a developer
+- 🌱 I’m currently learning ReactNative & Solidity. I'm intrested in Haskell
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ziginsider@gmail.com
 
